@@ -1,0 +1,143 @@
+.body{
+background: rgb(72,66,180);
+background: linear-gradient(90deg, rgba(72,66,180,1) 17%, rgba(77,77,233,1) 39%, rgba(0,212,255,1) 100%);
+background-repeat: no-repeat;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    
+ display: flex;
+justify-content: center;
+align-items: center;
+background: rgb(72,66,180);
+background: linear-gradient(90deg, rgba(72,66,180,1) 17%, rgba(77,77,233,1) 39%, rgba(0,212,255,1) 100%);
+}
+.title{
+    font-size: 30px;
+    color: white;
+}
+
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.fn1{
+    width: 216px;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    height: 20px;
+    margin-left: 45px;
+
+}
+.fn{
+    color: white;
+    font-size: 18px;
+    height: 20px;
+
+}
+
+.ln{
+    width: 216px;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    height: 20px;
+}
+.email{
+    margin-top: 15px;
+}
+.ye{
+    color: white;
+    font-size: 18px;
+}
+.input{
+    width: 442px;
+    position: relative;
+    height: 20px;
+    margin-left: 46px;
+}
+
+.phone{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.ph{
+    width: 140px;
+    height: 20px;
+    margin-left: 46px;
+}
+.ph2{
+    width: 140px;
+    height: 20px;
+    margin-left: 1px;
+}
+.ph3{
+    width: 140px;
+    height: 20px;
+    margin-left: 1px;
+}
+.ms{
+    margin-left: 0px;
+    margin-top: 15px;
+}
+.other{
+    height: 20px;
+    width: 300px;
+}
+
+.mb{
+    margin-top: 15px;
+
+}
+
+.msgb{
+
+    margin-left: 52px;
+    width: 457px;
+    height: 80px;
+}
+
+.vf{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    margin-left: 130px;
+
+}
+.vfb{
+    width: 20px;
+    height: 20px;
+    color: black;
+    margin-top: 11px;
+    margin-left: 5px;
+}.vft{
+    font-size: 22px;
+}
+.line{
+    background-color: white;
+    height: 2px;
+    width: 620px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.bt{
+    font-weight: bold;
+    width: 130px;
+    height: 30px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    background: rgb(72,66,180);
+background: linear-gradient(90deg, rgba(72,66,180,1) 17%, rgba(77,77,233,1) 39%, rgba(0,212,255,1) 100%);
+}
+.bt:hover{
+    border-radius: 15px;
+    color: black;
+    background: rgb(72,66,180);
+background: linear-gradient(-90deg, rgba(72,66,180,1) 17%, rgba(77,77,233,1) 39%, rgba(0,212,255,1) 100%);
+}
